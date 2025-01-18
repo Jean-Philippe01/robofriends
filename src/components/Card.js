@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {robots} from './Robots';
+//import {robots} from './Robots';
 
 const Card = (robots) => {
 		return(
